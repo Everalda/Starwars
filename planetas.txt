@@ -6,3 +6,4 @@ Tatooine
 Hoth
 Dantooin
 Jakku
+Naboo
